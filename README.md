@@ -5,7 +5,7 @@ VSCode には自動補完機能がある。
 
 以下の例を見てみよう。例えば、次のような簡単なコードを例にとって、補完機能を使ってみる。
 
-`````java
+```java
 public class App {
 
     public static void main(String[] args) {
