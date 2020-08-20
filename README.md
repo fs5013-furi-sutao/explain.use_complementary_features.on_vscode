@@ -1,0 +1,2 @@
+# explain.use_complementary_features.on_vscode
+VSCode の補完機能を使ってコーディングをスピードアップしよう
